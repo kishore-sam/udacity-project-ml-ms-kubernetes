@@ -1,4 +1,4 @@
-[![kishore-sam](https://circleci.com/gh/kishore-sam/udacity-project-ml-ms-kubernetes.svg?style=svg)](https://circleci.com/gh/kishore-sam/udacity-project-ml-ms-kubernetes)
+https://circleci.com/gh/kishore-sam/udacity-project-ml-ms-kubernetes?style=svg
 
 ## Project Overview
 
