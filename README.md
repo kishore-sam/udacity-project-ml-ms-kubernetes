@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+https://app.circleci.com/pipelines/github/kishore-sam/udacity-project-ml-ms-kubernetes
 
 ## Project Overview
 
