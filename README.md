@@ -1,4 +1,4 @@
-https://app.circleci.com/pipelines/github/kishore-sam/udacity-project-ml-ms-kubernetes
+https://circleci.com/gh/kishore-sam/udacity-project-ml-ms-kubernetes
 
 ## Project Overview
 
